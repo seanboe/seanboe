@@ -4,3 +4,5 @@ I'm a high schooler who likes to make stuff! Currently, I'm working on my quadru
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanboe&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanboe)](https://github.com/anuraghazra/github-readme-stats)
+
