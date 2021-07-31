@@ -8,4 +8,4 @@ I'm a high schooler who likes to make stuff! Currently, I'm working on my quadru
   <br>
 </h1>
 
-<center>See my progress [here](https://seanboe.github.io/blog/tag/quadruped).</center>
+<p align="center"> See my progress <a href="https://seanboe.github.io/blog/tag/quadruped">here</a>. </p>
