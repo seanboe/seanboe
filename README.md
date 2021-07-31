@@ -8,6 +8,4 @@ I'm a high schooler who likes to make stuff! Currently, I'm working on my quadru
   <br>
 </h1>
 
-See my progress [here](https://seanboe.github.io/blog/tag/quadruped).
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanboe&show_icons=true&theme=tokyonight)
+<center>See my progress [here](https://seanboe.github.io/blog/tag/quadruped).</center>
